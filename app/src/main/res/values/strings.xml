@@ -5,4 +5,7 @@
     <string name="tab_text_1">Home</string>
     <string name="tab_text_2">Materi</string>
     <string name="tab_text_3">Quiz</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_materi">Materi</string>
+    <string name="menu_quiz">Quiz</string>
 </resources>

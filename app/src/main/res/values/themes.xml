@@ -1,14 +1,11 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application light theme. -->
-    <style name="Base.Theme.MyCourse" parent="Theme.Material3.Light.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<resources>
+    <!-- Base application theme with ActionBar so options menu works. -->
+    <style name="Base.Theme.MyCourse" parent="Theme.Material3.DayNight">
+        <!-- Customize your theme here. -->
     </style>
 
-    <!-- Base application light theme with ActionBar. -->
-    <style name="Base.Theme.MyCourse.WithActionBar" parent="Theme.Material3.Light">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.MyCourse.WithActionBar" parent="Theme.Material3.DayNight">
+        <!-- Customize your theme here. -->
     </style>
 
     <!-- Themes that can be applied to the application or specific activities. -->
